@@ -1,6 +1,8 @@
 Data
 **/.DS_Store
-
+dataset
+dataset/*
+**/.ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
