@@ -1,4 +1,4 @@
-# CNN with PyTorch - Detector of deaseases in cacao
+# CNN with PyTorch - Classifier of Yoga Poses
 This project show how to implement a Convolutional Neural Network (CNN)using Keras **to classify possses of yoga** from **images**. 
 The main idea is create a Neural Network capable to clasify an image in one of the following classes: downdog, plank , tree,  warrior.
 
